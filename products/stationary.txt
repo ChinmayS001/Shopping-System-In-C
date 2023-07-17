@@ -1,0 +1,16 @@
+15
+2016         Parker_victor_gold_ink  600          4.533
+2015         Parker_victor_gold_ball 600          4.7
+2014         Parker_metallix_gel     300          3.333
+2013         Parker_metallix_ink     300          4.533
+2012         Parker_metallix_ball    300          4.7
+2001         Wildcraft_pouch         300          4.233
+2002         Cello_Ballpens_pack     100          3.888
+2003         Apsara_pencils_pack     100          4.444
+2004         Reynolds_Trimax_blue    50           5.55
+2005         Reynolds_Trimax_black   50           5.55
+4005         classmate_100pageNB     40           3.66
+4006         classmate_200pageNB     80           3.66
+4004         classmate_400pageNB     130          4.66
+1020         geometry_box            150          3.33
+1128         classmate_penpencil     70           4.44

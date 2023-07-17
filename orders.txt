@@ -1,0 +1,41 @@
+7
+6
+samsung_galaxy_s7             1    55000
+Dell_Inspiron_3505            1    50000
+samsung_galaxy_s7             1    55000
+Nike_Mercureal_studs          1    5000
+classmate_penpencil           1    70
+12-20-20       nChinmay            560023  165070 0
+7
+samsung_galaxy_s7             1    55000
+Dell_Inspiron_3505            1    50000
+Nike_Mercureal_studs          1    5000
+Parker_victor_gold_ink        1    600
+Macbook_Air                   1    125000
+classmate_penpencil           1    70
+04-20-20       nChinmay_s          560050  235670 
+3
+HP_Notebook_250_G7            1    35000
+classmate_200pageNB           2    80
+03-20-20       gChethan            560020  350800 
+4
+Adidas_Brazuka_footbLL        1    2000
+MRF_leather_bat               1    7500
+Bowling_machine               1    50000
+04-20-20        Chethan            560020  595000 
+3
+Dell_Inspiron_3505            1    50000
+Nike_Mercureal_studs          1    5000
+12-20-20       sram                560033  55000 
+7
+Dell_Inspiron_3505            1    50000
+Adidas_Predator_studs         1    20000
+GM_Cricket_kit                1    10000
+Parker_victor_gold_ink        1    600
+Wildcraft_pouch               1    300
+Bose_Headphones_700           1    30000
+04-20-20       _Chinmay_S          560024  110900 
+3
+HP_Notebook_250_G7            1    35000
+Vicky_tennis-ball_pack        1    700
+04-20-20       lVirat_Kohli        560022  35700 

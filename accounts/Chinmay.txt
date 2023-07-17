@@ -1,0 +1,17 @@
+3
+4
+samsung_galaxy_s7#            1#   55000ú
+Dell_Inspiron_3505#           1#   50000
+Nike_Mercureal_studs#         1#   50000
+12-20-20       560023
+6
+samsung_galaxy_s7#            1#   55000
+Dell_Inspiron_3505#           1#   50000
+samsung_galaxy_s7#            1#   55000
+Nike_Mercureal_studs#         1#   50000
+classmate_penpencil#          1#   700
+12-20-20       560023  165070
+3
+Macbook_Air#                  1#   125000
+Parker_victor_gold_ink#       1#   6000
+12-12-12       560023  125600 

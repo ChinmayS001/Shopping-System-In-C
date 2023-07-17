@@ -1,0 +1,5 @@
+4
+0001         samsung_galaxy_s7       55000        4.358
+0002         samsung_galaxy_s8       55000        4.333
+0003         iphone 10               80000        3.333
+0004         iphone 11               90000        3.999
