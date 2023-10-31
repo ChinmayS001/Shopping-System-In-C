@@ -1,4 +1,4 @@
-#include <stdio.h>
+F#include <stdio.h>
 #include <stdlib.h>
 #include<string.h>
 #include<conio.h>
@@ -808,9 +808,7 @@ void main_page()
     printf("                          ______|  /     _____|      |     |_____  |    |");
     gotoxy(0,13);
     printf("done by\n");
-    printf(" _____        _____                 \\  /    ____  \n");
-    printf("|       |__|    |    |\\ | |\\/|  /\\   \\/    |____   \n");
-    printf("|_____  |  |  __|__  | \\| |  | /  \\  /      ____| \n");
+
     //printf("          Chinmay S,");
    // printf("Abhishek Gupta,Deekshith Pruthviraj and Chethan Patel");
     gotoxy(0,0);printf("-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -");
@@ -1174,7 +1172,7 @@ int main()
 ///*
 while(1)
 {
-  // printf("yako hing aadtya\n");
+ 
      if(funno==1)
        {
            login_user();
@@ -1202,7 +1200,7 @@ while(1)
      else
          {login_page();funno=p;}
 
-}printf("yako hing aadtya\n");
+}
 //*/
 
 }
